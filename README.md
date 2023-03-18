@@ -1,1 +1,4 @@
 # script-py
+
+## vscode
+### pylint
